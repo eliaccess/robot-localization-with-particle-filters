@@ -2,7 +2,7 @@
 
 ## Description
 
-This project develops how to use particle filters to localize a robot, and simulate the altitude sensors of that robot.
+This project develops how to use particle filters (Monte Carlo localization, MCL) to localize a robot, and simulate the altitude sensors of that robot.
 
 On the following image, the robot is the green dot and the overall prediction is the red dot. The predictions of 3k points of the particle filter are in blue.
 
